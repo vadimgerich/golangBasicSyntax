@@ -1,3 +1,3 @@
-module golangBasicSyntax
+module github.com/vadimgerich/golangBasicSyntax
 
-go 1.25
+go 1.25.3
